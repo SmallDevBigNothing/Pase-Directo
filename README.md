@@ -21,7 +21,7 @@ Plataforma de transmisión de fútbol en vivo que permite a los usuarios disfrut
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/pase-directo.git
+git clone https://github.com/SmallDevBigNothing/pase-directo.git
 ```
 
 2. Instala las dependencias:
