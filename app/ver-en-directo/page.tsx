@@ -24,7 +24,7 @@ export default function VerEnDirecto() {
               <iframe
                 id="stream-iframe"
                 title="Transmisión en directo"
-                src="https://pasedirectoowncast.up.railway.app/embed/video"
+                src="/stream"
                 allowFullScreen
                 className="w-full h-full border-none"
                 referrerPolicy="origin"
